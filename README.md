@@ -1,1 +1,11 @@
-# IA-Generativa-em-um-Pipeline-de-ETL-com-Python
+# IA
+Antes de tudo o que é a IA Generativa?
+Uma inteligência artificial generativa é uma tecnologia com capacidade de aprender a padrões complexos de comportamento a partir de uma base de dados. Com uma técnica chamada aprendizagem de máquina ("machine learning" em inglês), o IAs generativas como ChatGPT e DALL-E conseguem reproduzir conteúdos após receber treinamento.
+Com a absorção de muitos dados, a IA é capaz gerar novas informações de maneira original e até única para cada interação. Além disso, a sua construção técnica permite ir além do aprendizado convencional, o que possibilita uma evolução constante, por conta própria, sem necessidade de programação humana.
+As IAs generativas estão em alta no momento, mas nem todos sabem o que o termo significa.
+Para se criar uma IA generativa é preciso adicionar um imenso volume de textos, vídeos ou imagens que serão processados. Feito isso, sempre que alguém der um comando, a tecnologia oferecerá uma resposta que pode ser certa ou errada.
+Extrair, transformar e carregar (ETL) é o processo que as organizações orientadas a dados usam para coletar dados de várias fontes e reuni-los para dar suporte à descoberta, à geração de relatórios, à análise e à tomada de decisões.
+#Pipeline
+O pipeline de dados é uma série de etapas de processamento para preparar dados corporativos para análise. As organizações têm um grande volume de dados de várias fontes, como aplicativos, dispositivos de Internet das Coisas (IoT) e outros canais digitais. No entanto, os dados brutos são inúteis; eles devem ser movidos, classificados, filtrados, reformatados e analisados para business intelligence. Um pipeline de dados inclui várias tecnologias para verificar, resumir e encontrar padrões nos dados para informar as decisões de negócios. Pipelines de dados bem organizados oferecem suporte a vários projetos de big data, como visualizações de dados, análises exploratórias de dados e tarefas de machine learning.
+#ETL
+As origens de dados podem ser muito diversas em tipo, formato, volume e confiabilidade, de modo que os dados precisam ser processados para serem úteis quando reunidos. Os armazenamentos de dados de destino podem ser bancos de dados, data warehouses ou data lakes, dependendo das metas e da implementação técnica.
